@@ -1,0 +1,11 @@
+C:\Adrian 2019\2 - Second Semester\Visual Basic\windows_calculator\windows_calculator\bin\Debug\windows_calculator.exe.config
+C:\Adrian 2019\2 - Second Semester\Visual Basic\windows_calculator\windows_calculator\bin\Debug\windows_calculator.exe
+C:\Adrian 2019\2 - Second Semester\Visual Basic\windows_calculator\windows_calculator\bin\Debug\windows_calculator.pdb
+C:\Adrian 2019\2 - Second Semester\Visual Basic\windows_calculator\windows_calculator\bin\Debug\windows_calculator.xml
+C:\Adrian 2019\2 - Second Semester\Visual Basic\windows_calculator\windows_calculator\obj\Debug\windows_calculator.vbprojAssemblyReference.cache
+C:\Adrian 2019\2 - Second Semester\Visual Basic\windows_calculator\windows_calculator\obj\Debug\windows_calculator.Form1.resources
+C:\Adrian 2019\2 - Second Semester\Visual Basic\windows_calculator\windows_calculator\obj\Debug\windows_calculator.Resources.resources
+C:\Adrian 2019\2 - Second Semester\Visual Basic\windows_calculator\windows_calculator\obj\Debug\windows_calculator.vbproj.GenerateResource.cache
+C:\Adrian 2019\2 - Second Semester\Visual Basic\windows_calculator\windows_calculator\obj\Debug\windows_calculator.exe
+C:\Adrian 2019\2 - Second Semester\Visual Basic\windows_calculator\windows_calculator\obj\Debug\windows_calculator.xml
+C:\Adrian 2019\2 - Second Semester\Visual Basic\windows_calculator\windows_calculator\obj\Debug\windows_calculator.pdb
